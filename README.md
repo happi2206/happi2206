@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, React and Golang**
+- 🌱 I’m currently learning **Python and Golang**
 
 - 💬 Ask me about **Vue**
 
